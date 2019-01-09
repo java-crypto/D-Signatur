@@ -1,0 +1,2 @@
+Diese Datei enthält den zu signierenden Text.
+This file contains the data for signature.
